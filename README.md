@@ -36,9 +36,3 @@ My current focus is on strengthening my programming fundamentals, building proje
 I'm currently improving and documenting my personal and university projects.
 
 You can find my work in the repositories below.
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=konstantin-butchanin&show_icons=true&hide_border=true&theme=transparent" alt="Konstantin's GitHub statistics" />
-</p>
